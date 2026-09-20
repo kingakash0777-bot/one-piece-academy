@@ -2,21 +2,19 @@
 
 A beginner HTML website based on the One Piece theme.
 
+## Live Demo
+
+[View Website](https://kingakash777.neocities.org/one%20piece/project%202)
+
 ## Technologies Used
 
 - HTML5
 
 ## Features
 
-- One Piece Academy homepage
-- YouTube video
-- Devil Fruit information
-- Haki information
+- Multi-page website
 - Registration form
+- Navigation
 - Images and favicon
-- Multiple HTML pages
-
-## Pages
-
-- `index.html` - Home page
-- `register.html` - Registration page
+- YouTube video
+- Tables and lists
